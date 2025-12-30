@@ -1,6 +1,6 @@
 ## Repository Overview
 
-This repository contains materials related to my **Summer Internship 2025**, focused on the numerical reproduction and analysis of **spin–direction coupling in waveguided plasmonic crystals**.
+This repository documents the work carried out during my **Summer Internship 2025** at **IISER Kolkata**, under the supervision of **Prof. Nirmalya Ghosh**, involving numerical modeling and analysis of **spin–direction coupling in waveguided plasmonic crystals**.
 
 The repository includes:
 - **MATLAB code (`.m`)** used for numerical simulations of spin–orbit interactions, Stokes parameters, and Mueller matrix elements.
